@@ -1,4 +1,4 @@
-<h3 align="center">15 ans, développeur frontend, Vient de Paris.</h3>
+<h3 align="center">15 ans, développeur frontend, vient de Paris.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kraken-99&label=Profile%20views&color=0e75b6&style=flat" alt="kraken-99" /> </p>
 
