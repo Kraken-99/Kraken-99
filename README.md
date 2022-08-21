@@ -14,7 +14,6 @@
 
 - 📫 Comment me joindre **kraken-off99@proton.me**
 
-- 📄 Connaître mes expériences [https://raphael-gauthier-blog.netlify.app/about-me/index.html](https://raphael-gauthier-blog.netlify.app/about-me/index.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
