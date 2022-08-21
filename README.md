@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kraken-99&label=Profile%20views&color=0e75b6&style=flat" alt="kraken-99" /> </p>
 
-<p align="left"> <a href="https://twitter.com/raphael_gauth95" target="blank"><img src="https://img.shields.io/twitter/follow/raphael_gauth95?logo=twitter&style=for-the-badge" alt="raphael_gauth95" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kraken_offi99" target="blank"><img src="https://img.shields.io/twitter/follow/kraken99?logo=twitter&style=for-the-badge" alt="raphael_gauth95" /></a> </p>
 
 - 🔭 je travaille actuellement sur [le langage c](https://github.com/Kraken-99/repository-c-1)
 
