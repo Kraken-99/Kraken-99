@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/kraken99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/kraken99" height="30" width="40" /></a>
-  <br />
+
 <a href="https://twitter.com/raphael_gauth95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raphael_gauth95" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/kraken-99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/kraken-99" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100081890016765" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100081890016765" height="30" width="40" /></a>
