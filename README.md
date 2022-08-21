@@ -10,8 +10,6 @@
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/Kraken-99](https://github.com/Kraken-99)
 
-- 📝 J'écris régulièrement des articles sur [https://raphael-gauthier-blog.netlify.app/index.html](https://raphael-gauthier-blog.netlify.app/index.html)
-
 - 📫 Comment me joindre **kraken-off99@proton.me**
 
 
